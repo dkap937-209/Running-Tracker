@@ -6,7 +6,9 @@
         <entry key="..\:/Users/darpa/OneDrive/Desktop/code/RunningTracker/app/src/main/res/drawable-v24/bottom_nav_selector.xml" value="0.2205" />
         <entry key="..\:/Users/darpa/OneDrive/Desktop/code/RunningTracker/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
         <entry key="..\:/Users/darpa/OneDrive/Desktop/code/RunningTracker/app/src/main/res/layout/fragment_run.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/darpa/OneDrive/Desktop/code/RunningTracker/app/src/main/res/layout/fragment_settings.xml" value="0.21354166666666666" />
         <entry key="..\:/Users/darpa/OneDrive/Desktop/code/RunningTracker/app/src/main/res/layout/fragment_tracking.xml" value="0.21354166666666666" />
+        <entry key="..\:/Users/darpa/OneDrive/Desktop/code/RunningTracker/app/src/main/res/layout/item_run.xml" value="0.21354166666666666" />
       </map>
     </option>
   </component>
