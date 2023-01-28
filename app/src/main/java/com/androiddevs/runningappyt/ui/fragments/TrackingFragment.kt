@@ -6,7 +6,6 @@ import android.view.View
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.Observer
-import androidx.lifecycle.observe
 import com.androiddevs.runningappyt.R
 import com.androiddevs.runningappyt.other.Constants.ACTION_PAUSE_SERVICE
 import com.androiddevs.runningappyt.other.Constants.ACTION_START_OR_RESUME_SERVICE
@@ -15,7 +14,6 @@ import com.androiddevs.runningappyt.other.Constants.POLYLINE_COLOUR
 import com.androiddevs.runningappyt.other.Constants.POLYLINE_WIDTH
 import com.androiddevs.runningappyt.other.TrackingUtility
 import com.androiddevs.runningappyt.services.Polyline
-import com.androiddevs.runningappyt.services.Polylines
 import com.androiddevs.runningappyt.services.TrackingService
 import com.androiddevs.runningappyt.ui.viewmodels.MainViewModel
 import com.google.android.gms.maps.CameraUpdateFactory
