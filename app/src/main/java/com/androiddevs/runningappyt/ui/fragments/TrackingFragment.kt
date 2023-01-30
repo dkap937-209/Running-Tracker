@@ -99,6 +99,7 @@ class TrackingFragment : Fragment(R.layout.fragment_tracking) {
         if(isTracking){
             menu?.getItem(0)?.isVisible = true
             sendCommandToService(ACTION_PAUSE_SERVICE)
+            moveCameraToUser()
         }
         else{
             sendCommandToService(ACTION_START_OR_RESUME_SERVICE)
